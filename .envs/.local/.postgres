@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=mi_calendario_auditivo
+POSTGRES_USER=rSpmaWWQFVFnODZiVKxaPgherLmnKCeF
+POSTGRES_PASSWORD=u3OfMzFmU2X7mET6fr0JKkTfFO6cE9lbEp5I612ZgrGxuSJghWTsINT3nJUpCaUq
